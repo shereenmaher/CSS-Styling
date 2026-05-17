@@ -1,0 +1,23 @@
+h1{
+    color:white;
+    background-color: black;
+    font-family:sans-serif
+    
+}
+.aqua{
+    color: aqua;
+}
+h2{
+    color: white;
+    background-color: blueviolet;
+    font-style: italic;
+    text-align: center;
+    font-family:sans-serif
+}
+h3{
+   color: black;
+   background-color: #89CFF0; 
+   text-align: right;
+   text-decoration: underline;
+   font-family:sans-serif
+}
